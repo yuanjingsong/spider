@@ -1,0 +1,15 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "a spider for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yuanjingsong",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.1",
+    "install": "^0.10.1"
+  }
+}
